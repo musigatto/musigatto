@@ -7,13 +7,19 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musigatto&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="musigatto's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=musigatto&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="musigatto's GitHub Streak" width="49%" />
-</p>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=musigatto&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_seconds=86400" alt="musigatto's GitHub Stats" width="49%" />
+  
+  <!-- Streak Stats -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musigatto&theme=onedark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musigatto&theme=onedark" alt="Alberto's GitHub Trophies" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=musigatto&theme=onedark" alt="musigatto's GitHub Trophies" />
 </p>
+
 
 
 ## 🛠️ Languages & Tools
