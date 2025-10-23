@@ -9,10 +9,10 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=musigatto&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="musigatto's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=musigatto&theme=radical&hide_border=true&cache_seconds=86400" alt="musigatto's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=musigatto&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="musigatto's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musigatto&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Alberto's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=musigatto&theme=onedark" alt="Alberto's GitHub Trophies" />
 </p>
 
 
