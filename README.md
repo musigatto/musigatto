@@ -1,18 +1,18 @@
 <h1 align="center">Hey <img src="https://camo.githubusercontent.com/e7ae6aeae08b584ce56cd85e89dc9edbd700924e1da6b935e8a6ddae8e75241a/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313632313032343339342f33393039322f6361742d726f6c6c2e6769663f31363231303234333934" height="30px" width="30px"> I'm Alberto</h1>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=darlber">
-    <img src="https://komarev.com/ghpvc/?username=darlber&label=Profile%20views&color=00FFFF&style=flat-square" alt="darlber's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=musigatto">
+    <img src="https://komarev.com/ghpvc/?username=musigatto&label=Profile%20views&color=00FFFF&style=flat-square" alt="musigatto's profile views" />
   </a>
 </p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darlber&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="darlber's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=darlber&theme=radical&hide_border=true&cache_seconds=86400" alt="darlber's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musigatto&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="musigatto's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=musigatto&theme=radical&hide_border=true&cache_seconds=86400" alt="musigatto's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darlber&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Alberto's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=musigatto&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Alberto's GitHub Trophies" />
 </p>
 
 
@@ -31,9 +31,9 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlber&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musigatto&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/darlber/darlber/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/musigatto/musigatto/output/github-snake-dark.svg)
 
 
