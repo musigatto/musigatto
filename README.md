@@ -19,8 +19,11 @@
   </p>
   <!-- GitHub Trophies -->  
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=musigatto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=musigatto&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
 
 
 ## 🛠️ Languages & Tools
@@ -55,13 +58,10 @@
   <b>Tools</b><br>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60" style="margin: 10px;" />
 </p>
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musigatto&layout=compact&theme=onedark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/musigatto/musigatto/output/github-snake-dark.svg)
 
