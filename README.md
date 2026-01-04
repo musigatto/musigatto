@@ -10,8 +10,7 @@
 
 <p align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber&theme=onedark" alt="LeetCode Badges" />
-
-<p align="center">
+  </p>
 
   
   <!-- Streak Stats -->
@@ -19,6 +18,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musigatto&theme=onedark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </p>
   <!-- GitHub Trophies -->  
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=musigatto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
