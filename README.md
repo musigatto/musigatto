@@ -12,17 +12,14 @@
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber&theme=onedark" alt="LeetCode Badges" />
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=musigatto&show_icons=true&theme=onedark&hide_border=true&count_private=true&cache_seconds=86400" alt="musigatto's GitHub Stats" width="49%" />
+
   
   <!-- Streak Stats -->
   <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musigatto&theme=onedark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   </p>
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=musigatto&theme=onedark" alt="musigatto's GitHub Trophies" />
-</p>
+  <!-- GitHub Trophies -->  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=musigatto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
