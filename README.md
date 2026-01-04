@@ -6,26 +6,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber&theme=onedark" alt="LeetCode Badges" />
-  </p>
-
-  
-  <!-- Streak Stats -->
-  <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=musigatto&theme=onedark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  </p>
-  <!-- GitHub Trophies -->  
-  
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=musigatto&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -36,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" style="margin: 10px;" />
 </p>
+
 
 
 <p align="center">
@@ -60,6 +41,10 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="60" height="60" style="margin: 10px;" />
 </p>
+
+<p align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber&filter=submission&theme=onedark" alt="LeetCode Badges" />
+  </p>
 
 
 
