@@ -7,6 +7,8 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
+<p align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber" alt="LeetCode Badges" />
 
 <p align="center">
