@@ -56,7 +56,7 @@ Más de 500 días consecutivos resolviendo problemas
   <b>Tools</b><br>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="60" height="60" style="margin: 10px;" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/intellij-idea.svg" alt="IntelliJ IDEA" width="60" height="60" style="margin: 10px;" />
 </p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/musigatto/musigatto/output/github-snake-dark.svg)
