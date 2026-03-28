@@ -6,7 +6,7 @@ Soy una persona constante, autodidacta y con gran afán por el conocimiento.
 
 <h3 align="center">🔥 Mi Racha en LeetCode</h3>
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber&filter=submission&theme=onedark" alt="LeetCode Badges" width="30%" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber&border=no-border&filter=submission&theme=onedark" alt="LeetCode Badges" width="30%" />
 </p>
 <p align="center" style="font-style:italic; color:gray;">
 Más de 500 días consecutivos resolviendo problemas 
@@ -37,6 +37,10 @@ Más de 500 días consecutivos resolviendo problemas
   <b>Databases</b><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin: 10px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="60" height="60" style="margin: 10px;" />
 </p>
 
 <p align="center">
@@ -52,11 +56,8 @@ Más de 500 días consecutivos resolviendo problemas
   <b>Tools</b><br>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 10px;" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="60" height="60" style="margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="60" height="60" style="margin: 10px;" />
 </p>
-
-
-
-
 
 ![GitHub Snake](https://raw.githubusercontent.com/musigatto/musigatto/output/github-snake-dark.svg)
 
