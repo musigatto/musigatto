@@ -9,7 +9,7 @@ Soy una persona constante, autodidacta y con gran afán por el conocimiento.
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=darlber&border=no-border&filter=submission&theme=onedark" alt="LeetCode Badges" width="30%" />
 </p>
 <p align="center" style="font-style:italic; color:gray;">
-Más de 500 días consecutivos resolviendo problemas 
+Más de 600 días consecutivos resolviendo problemas 
 </p>
 
 
